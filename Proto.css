@@ -1,0 +1,118 @@
+nav {
+    text-align: center;
+    background-color: black;
+    color: rgb(22, 224, 11);
+    padding: 10px;
+}
+footer {
+    text-align: center;
+    bottom: 0px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+.game-container{
+    text-align: center;
+    color: rgb(22, 224, 11);
+    background-color: whitesmoke;
+    padding: 25px 0 100px 0;
+    margin: 50px 25% 30px 25%;
+    font-size: 30px;
+}
+
+.game-container a {
+    margin: 50px 30px 100px 30px;
+    padding: 40px 15px 40px 15px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    border-radius: 25%;
+    text-decoration: none;
+}
+.game-container a:hover{
+    color: black;
+    background-color: rgb(22, 224, 11);
+}
+.game-container h1 {
+    margin-bottom: 70px;
+}
+.game-container img {
+    margin: 100px;
+}
+.game-Simon {
+    text-align: center;
+    color: rgb(22, 224, 11);
+    background-color: whitesmoke;
+    padding: 25px 0 100px 0;
+    margin: 50px 25% 30px 25%;
+    font-size: 30px;
+}
+.game-Simon button {
+    padding: 60px;
+    margin: 5px;
+}
+.Game-match {
+    text-align: center;
+    color: rgb(22, 224, 11);
+    background-color: whitesmoke;
+    padding: 25px 0 100px 0;
+    margin: 50px 25% 30px 25%;
+    font-size: 30px;
+}
+.Game-match button {
+    padding: 60px;
+    margin: 5px;
+}
+.Return {
+    color: rgb(22, 224, 11);
+    background-color: black;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 25%;
+}
+.Return:hover{
+    background-color: gray;
+}
+.game-Memory {
+    text-align: center;
+    color: rgb(22, 224, 11);
+    background-color: whitesmoke;
+    padding: 25px 0 100px 0;
+    margin: 50px 25% 30px 25%;
+    font-size: 30px;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
+.game-container2{
+    text-align: center;
+    color: rgb(22, 224, 11);
+    background-color: whitesmoke;
+    padding: 25px 0 100px 0;
+    margin: 50px 25% 30px 25%;
+    font-size: 30px;
+}
+
+.game-container2 a {
+    margin: 50px 30px 100px 30px;
+    padding: 40px 15px 40px 15px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    border-radius: 25%;
+    text-decoration: none;
+    align-items: center;
+    display: flex;
+}
+.game-container2 a:hover{
+    color: black;
+    background-color: rgb(22, 224, 11);
+}
+.game-container2 div{
+    background-color: gray;
+    margin: 10px;
+    text-align: center;
+}
